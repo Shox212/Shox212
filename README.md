@@ -39,7 +39,7 @@ Shox.createDay();
 ```
 <img src="https://komarev.com/ghpvc/?username=Shox212&label=Ziyaretçi%20Sayısı&color=552b75" alt="Shox" />
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/456261567202197515)](https://discord.com/users/289777913434210305)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/289777913434210305)](https://discord.com/users/289777913434210305)
 
 
 ## 🔧 Languages
