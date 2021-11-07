@@ -1,7 +1,7 @@
 ```js
 class Shox {
   constructor(...options) {
-    this.height = "1.98"
+    this.height = "1.88"
     this.weight = "78"
     this.type = "human"
     this.job = "student"
